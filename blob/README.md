@@ -1,36 +1,41 @@
 # 💼 Certifications Portfolio
 
-Salutations! This repository contains verified certifications and training I've completed across various jobs. My goal is to continuously grow in areas like cybersecurity, AI building, infrastructure.
+Salutations! 
+This repository contains verified certifications and training I’ve completed across various roles. I’m committed to continuous growth in areas such as cybersecurity, AI development, and infrastructure — building on the skills I’ve gained throughout my professional journey.
 
 ---
 
 ## 🔐 IT Security-Related Certifications
 
 - [Security - KnowBe4](https://github.com/ACuteStory/Certificates/tree/main/IT-Security-related)
-- [Quality](https://github.com/ACuteStory/Certificates/tree/main/Quality)
-- [Webinar](https://github.com/ACuteStory/Certificates/tree/main/Webinar)
 
-🔗 View folder: [IT-Security-related/](./IT-Security-related)
+🔗 View folder: [Certificates/](https://github.com/ACuteStory/Certificates)
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🔍 Quality
 
-- [AWS Certified Cloud Practitioner](./Cloud/AWS_CCP.pdf)
-- [Microsoft Azure Fundamentals](./Cloud/Azure_Fundamentals.pdf)
+- [Quality](https://github.com/ACuteStory/Certificates/tree/main/Quality)
 
-🔗 View folder: [Cloud/](./Cloud)
+🔗 View folder: [Certificates/](https://github.com/ACuteStory/Certificates)
+
+---
+
+## 📦 Misc Projects and Certificates
+
+- [Webinar](https://github.com/ACuteStory/Certificates/tree/main/Webinar)
+
+🔗 View folder: [Certificates/](https://github.com/ACuteStory/Certificates)
 
 ---
 
 ## 🛠️ Tools & Skills
 
-- Bash Scripting
+- HTML
 - Networking Fundamentals
 - Threat Detection
 - Incident Response
 - IAM & Access Controls
-- Cloud Security (AWS, Azure)
 
 ---
 
