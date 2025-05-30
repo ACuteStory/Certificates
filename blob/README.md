@@ -13,7 +13,7 @@ This repository contains verified certifications and training I’ve completed a
 
 ---
 
-## 🔍 Quality
+## 🔍 Quality Projects and Certificates
 
 - [Quality](https://github.com/ACuteStory/Certificates/tree/main/Quality)
 
@@ -32,10 +32,10 @@ This repository contains verified certifications and training I’ve completed a
 ## 🛠️ Tools & Skills
 
 - HTML
+- Flow Automation
 - Networking Fundamentals
 - Threat Detection
 - Incident Response
-- IAM & Access Controls
 
 ---
 
